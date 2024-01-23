@@ -8,7 +8,7 @@
 ---
 
 <h3 align="center">
-    ▶️ Acesse o Projeto Aqui: <a href="">Aplicativo para Segmentação de Clientes ▶️</a>
+    ▶️ Acesse o Projeto Aqui: <a href="https://agrupamentohierarquico-ofnkdgjqhhfycyanfugrfr.streamlit.app/">Aplicativo para Agrupamento de Clientes ▶️</a>
     <br>
 </h3>
 
