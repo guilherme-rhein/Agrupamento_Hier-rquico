@@ -276,7 +276,7 @@ Quantidade de valores missing: {df.isna().sum().sum()}\n''')
         with st.echo():
             # Calculando as distâncias
             gower = calculo_gower(data_x=df_base_dum, cat_features=list_cat)
-            st.dataframe(pd.DataFrame(gower).head(4))
+#            st.dataframe(pd.DataFrame(gower).head(4))
     
     # Tabela das distancias e grupos definidos
     st.markdown('#### Conversão dos Valores da Matriz Gower em Vetores e Definição dos Grupos "n"')  
